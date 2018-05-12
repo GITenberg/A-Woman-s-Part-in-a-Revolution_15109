@@ -1,0 +1,27 @@
+_repo: A-Woman-s-Part-in-a-Revolution_15109
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hammond, Natalie Harris
+    birthdate: 1861
+    deathdate: 1931
+    gutenberg_agent_id: '5860'
+    url: http://www.gutenberg.org/2009/agents/5860
+description: Extracts from a diary (Dec. 30, 1895 - June 12, 1896) dealing chiefly
+  with the Jameson Raid.
+gutenberg_issued: '2005-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15109'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Jameson''s Raid, 1895-1896'
+title: A Woman's Part in a Revolution
+url: http://www.gutenberg.org/ebooks/15109
